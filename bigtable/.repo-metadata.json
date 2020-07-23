@@ -1,0 +1,52 @@
+{
+  "name": "bigtable",
+  "name_pretty": "Cloud Bigtable",
+  "product_documentation": "https://cloud.google.com/bigtable",
+  "client_documentation": "https://googleapis.dev/python/bigtable/latest",
+  "issue_tracker": "https://issuetracker.google.com/savedsearches/559777",
+  "release_level": "ga",
+  "language": "python",
+  "repo": "googleapis/python-bigtable",
+  "distribution_name": "google-cloud-bigtable",
+  "api_id": "bigtable.googleapis.com",
+  "requires_billing": true,
+  "client_library": true,
+  "samples": [
+            {"name": "hello",
+            "description": "A 'Hello World' demonstration using Cloud Bigtable.",
+            "file": "main.py",
+            "runnable": "True"},
+            {"name": "hello_happybase",
+            "description": "A 'Hello World' demonstration using Cloud Bigtable. This sample demonstrates using the Google Cloud Client Library HappyBase package, an implementation of the HappyBase API to connect to and interact with Cloud Bigtable.",
+            "file": "main.py",
+            "runnable": "True"},
+            {"name": "instanceadmin",
+            "description": "This page explains how to use the cbt command to connect to a Cloud Bigtable instance, perform basic administrative tasks, and read and write data in a table.",
+            "file": "instanceadmin.py",
+            "custom_content": "Demonstrates how to connect to Cloud Bigtable and run some basic operations to create instance, create cluster, delete instance and delete cluster.",
+            "runnable": "True"
+            },
+            {"name": "metricscaler",
+            "description": "This sample demonstrates how to use Stackdriver Monitoring to scale Cloud Bigtable based on CPU usage.",
+            "file": "metricscaler.py",
+            "custom_content": "Scales Cloud Bigtable clusters based on CPU usage.",
+            "runnable": "True"},
+            {"name": "quickstart",
+            "description": "This is the Cloud Bigtable quickstart.",
+            "file": "main.py"
+            },
+            {"name": "quickstart_happybase",
+            "description": "This is the Cloud Bigtable quickstart using Happybase API.",
+            "file": "main.py"
+            },
+            {"name": "snippets",
+            "description": "Snippets for Cloud Bigtable."
+            },
+            {"name": "tableadmin",
+            "description": "Demonstrates how to connect to Cloud Bigtable and run some basic operations.",
+            "file": "tableadmin.py",
+            "custom_content": "Remember to create a Cloud Bigtable cluster and set your Google Application Default Credentials before running this sample.",
+            "runnable": "True"
+            }
+  ]
+}

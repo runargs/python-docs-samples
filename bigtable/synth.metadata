@@ -1,0 +1,11 @@
+{
+  "sources": [
+    {
+      "git": {
+        "name": ".",
+        "remote": "git@github.com:runargs/python-docs-samples.git",
+        "sha": "fac46c8563beef2725c7ff0aa767ab215b03e739"
+      }
+    }
+  ]
+}
