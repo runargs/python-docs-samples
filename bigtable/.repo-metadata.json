@@ -32,11 +32,11 @@
             "custom_content": "Scales Cloud Bigtable clusters based on CPU usage.",
             "runnable": "True"},
             {"name": "quickstart",
-            "description": "This is the Cloud Bigtable quickstart.",
+            "description": "The Cloud Bigtable quickstart.",
             "file": "main.py"
             },
             {"name": "quickstart_happybase",
-            "description": "This is the Cloud Bigtable quickstart using Happybase API.",
+            "description": "The Cloud Bigtable quickstart using Happybase API.",
             "file": "main.py"
             },
             {"name": "snippets",

@@ -109,13 +109,13 @@ Scales Cloud Bigtable clusters based on CPU usage.
 
 ### quickstart
 
-This is the Cloud Bigtable quickstart.
+The Cloud Bigtable quickstart.
 
 
 
 ### quickstart_happybase
 
-This is the Cloud Bigtable quickstart using Happybase API.
+The Cloud Bigtable quickstart using Happybase API.
 
 
 
